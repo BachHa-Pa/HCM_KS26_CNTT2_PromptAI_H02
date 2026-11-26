@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Hà Gia Bách
 - **Lớp:** CNTT2
-- **Link repository Pha2:**
+- **Link repository Pha2:** https://github.com/BachHa-Pa/HCM_KS26_CNTT2_PromptAI_H02.git
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** CLAUDE
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
