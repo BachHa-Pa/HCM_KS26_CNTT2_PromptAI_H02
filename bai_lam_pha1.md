@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Hà Gia Bách
 - **Lớp:** CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/BachHa-Pa/HCM_KS26_CNTT2_PromptAI_H02.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
